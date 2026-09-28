@@ -12,10 +12,6 @@ The system aims to provide a simple and user-friendly approach to authentication
 * To provide an alternative to traditional text passwords.
 * To improve user experience during login.
 
-## Technologies Used
-
-* 
-* 
 
 ## Features
 
@@ -25,6 +21,5 @@ The system aims to provide a simple and user-friendly approach to authentication
 
 ## Author
 
-Varsha Kammari
-
+Akshitha Miryala
 Cybersecurity Student | Aspiring SOC Analyst
